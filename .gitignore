@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+
+# Project outputs
+.last_sent_date.txt
+bot_run_log.txt
+stock_screening_results.xlsx
+top_performers_chart.png
+candlestick_charts/
+aastocks_export.xlsx
